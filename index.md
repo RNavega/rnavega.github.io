@@ -1,14 +1,15 @@
-## Blender Add-Ons
+# Blender Add-Ons
 
-### Polyline Mesh Draw
+## Polyline Mesh Draw
 
 ***Operator name in quick search :***  
-<span style="font-family:Consolas; font-size:4em;">Polyline Mesh Draw
+<span style="font-family:Consolas;">Polyline Mesh Draw</span>
 
 ***Keymap :***  
+
 | Category         | Operator                |
 |------------------|-------------------------|
-| 3D View (Global) | mesh.polyline_mesh_draw |
+| <span style="font-family:Consolas;">3D View (Global)</span> | <span style="font-family:Consolas;">mesh.polyline_mesh_draw</span> |
 
 ***Default location in menus :***  
 Under the Add popup (usually called by Shift-A), at the bottom of the Mesh category.
