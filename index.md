@@ -1,6 +1,8 @@
 # Blender Add-Ons
 
-<p align="center">## Polyline Mesh Draw</p>
+|| <!-- empty table header -->
+|:--:| <!-- table header/body separator with center formatting -->
+|## Polyline Mesh Draw|
 
 ***Operator name in quick search :***  
 <span style="font-family:Consolas;">Polyline Mesh Draw</span>
