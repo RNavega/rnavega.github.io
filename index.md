@@ -1,24 +1,23 @@
-# Blender Add-Ons
+# Blender Add-Ons  
 
-|| <!-- empty table header -->
-|:--:| <!-- table header/body separator with center formatting -->
-|## Polyline Mesh Draw|
+## Polyline Mesh Draw  
 
-|***Operator name in quick search :***|
+|###Operator name in quick search|
 |--|
 |<span style="font-family:Consolas;">Polyline Mesh Draw</span>|
 
 
-|***Keymap :***||
-|--|--|
-| Category         | Operator                |
-|--|--|
+|###Keymap|
+|--|
+|Category|Operator|
+|--|
 | <span style="font-family:Consolas;">3D View (Global)</span> | <span style="font-family:Consolas;">mesh.polyline_mesh_draw</span> |
 
-***Default location in menus :***  
-Under the Add popup (usually called by Shift-A), at the bottom of the Mesh category.
+|###Default location in menus|
+|--|
+|Under the Add popup (usually called by Shift-A), at the bottom of the Mesh category.|
 
-|***How to use***|
+|###How to use|
 |--|
 |Draw strokes at the surface of objects or in empty space by either clicking multiple times, or by click-and-drag. When finished (Esc\Enter), the strokes will be converted to mesh edges. When used in Object mode it creates a new separate object. When used in Edit mode the lines are added to the active mesh.|
 
